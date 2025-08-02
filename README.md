@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="http://hinteval.readthedocs.io/"><img src="https://img.shields.io/static/v1?label=Documentation&message=HintEval&color=orange&logo=Read%20the%20Docs"></a>
-  <a href="https://colab.research.google.com/github/DataScienceUIBK/HintEval/blob/main/tests/demo.ipynb"><img src="https://img.shields.io/static/v1?label=Colab&message=Demo&logo=Google%20Colab&color=green"></a>
+  <a href="https://colab.research.google.com/github/my-unknown-account/HintEval/blob/main/tests/demo.ipynb"><img src="https://img.shields.io/static/v1?label=Colab&message=Demo&logo=Google%20Colab&color=green"></a>
   <a href="https://opensource.org/license/apache-2-0"><img src="https://img.shields.io/static/v1?label=License&message=Apache-2.0&color=yellow"></a>
   <a href="https://pepy.tech/projects/hinteval"><img src="https://static.pepy.tech/badge/hinteval" alt="PyPI Downloads"></a>
   <a href="https://github.com/DataScienceUIBK/HintEval/releases"><img alt="GitHub release" src="https://img.shields.io/github/release/DataScienceUIBK/HintEval.svg?label=Version&color=orange"></a>
@@ -63,7 +63,7 @@ pip install git+https://github.com/my-unknown-account/HintEval
 
 ### 🚀 Run the HintEval in Google Colab
 
-You can easily try **HintEval** in your browser via **Google Colab**, with no local installation required. Simply **[launch the Colab notebook](https://colab.research.google.com/github/DataScienceUIBK/HintEval/blob/main/tests/demo.ipynb)** to explore **HintEval** interactively.
+You can easily try **HintEval** in your browser via **Google Colab**, with no local installation required. Simply **[launch the Colab notebook](https://colab.research.google.com/github/my-unknown-account/HintEval/blob/main/tests/demo.ipynb)** to explore **HintEval** interactively.
 
 ### Generate a Synthetic Hint Dataset
 
